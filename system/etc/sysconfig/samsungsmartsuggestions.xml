@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.intellivoiceservice" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.android.providers.contacts" />
+    <allow-association target="com.samsung.android.smartsuggestions" allowed="com.android.providers.media" />
+    <allow-association target="com.samsung.android.smartsuggestions" allowed="com.android.providers.telephony" />
+    <allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.scs" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.google.android.providers.media.module" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.providers.media" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.android.phone" />
+	<!-- Calendar -->
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.android.providers.calendar" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.sec.android.app.myfiles" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.sec.android.daemonapp" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.providers.contacts" />
+	<!-- Samsung Notes -->
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.app.notes" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.cmh" />
+    <allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.rubin.app" />
+    <!-- Messages -->
+    <allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.messaging" />
+    <allow-association target="com.samsung.android.smartsuggestions" allowed="com.android.settings" />
+    <!-- Reminder -->
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.app.reminder" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.sec.android.app.clockpackage" />
+	<!-- Samsung Internet -->
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.sec.android.app.sbrowser" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.sec.android.app.sbrowser.beta" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.scloud" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.app.contacts" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.calendar" />		
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.android.chrome" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.android.bookmarkprovider" />		
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.android.providers.settings" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.email.provider" />
+	<!-- Gallery -->
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.sec.android.gallery3d" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.widget.pictureframe" />	
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.android.providers.media.module" />
+
+	<!-- Samsung Capture -->
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.app.smartcapture" />
+	<!-- Home launcher-->
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.sec.android.app.launcher" />
+	<!-- Keyboard -->
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.honeyboard" />
+	<!-- SSS test -->
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.app.enhance" />
+	<!-- Open Source page using Web View -->
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.google.android.webview" />
+	<!-- Battery suggestion widget - Watch manager  -->
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.app.watchmanager" />
+	<!-- Samsung Common Policy Manager - SCPM  -->
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.scpm" />
+	<!-- Samsung Pass Autofill - SPAF -->
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.samsungpassautofill" />
+	<!-- Tips  -->
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.app.tips" />
+	<!-- QuickShare  -->
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.app.sharelive" />
+	<!-- BadgeProvider  -->
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.sec.android.provider.badge" />
+	<!-- SystemUI(WM shell)  -->
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.android.systemui" />
+	<!-- ShareTray  -->
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.android.intentresolver" />
+	<!-- Backup and Restore  -->
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.sec.android.easyMover" />
+	<!-- Samsung Wallet -->
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.spay" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.spaymini" />	
+	<!-- Live translate -->
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.sr.nmt.apps.t2t.languagepack.kozh" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.sr.nmt.apps.t2t.languagepack.kovi" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.sr.nmt.apps.t2t.languagepack.koja" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.sr.nmt.apps.t2t.languagepack.enzh" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.sr.nmt.apps.t2t.languagepack.envi" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.sr.nmt.apps.t2t.languagepack.entr" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.sr.nmt.apps.t2t.languagepack.ente" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.sr.nmt.apps.t2t.languagepack.enta" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.sr.nmt.apps.t2t.languagepack.ensv" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.sr.nmt.apps.t2t.languagepack.ensr" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.sr.nmt.apps.t2t.languagepack.enru" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.sr.nmt.apps.t2t.languagepack.enro" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.sr.nmt.apps.t2t.languagepack.enptbr" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.sr.nmt.apps.t2t.languagepack.enpt" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.sr.nmt.apps.t2t.languagepack.enpl" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.sr.nmt.apps.t2t.languagepack.enno" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.sr.nmt.apps.t2t.languagepack.ennl" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.sr.nmt.apps.t2t.languagepack.enmr" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.sr.nmt.apps.t2t.languagepack.enko" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.sr.nmt.apps.t2t.languagepack.enja" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.sr.nmt.apps.t2t.languagepack.enit" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.sr.nmt.apps.t2t.languagepack.enid" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.sr.nmt.apps.t2t.languagepack.enhu" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.sr.nmt.apps.t2t.languagepack.enhr" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.sr.nmt.apps.t2t.languagepack.enhi" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.sr.nmt.apps.t2t.languagepack.enhe" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.sr.nmt.apps.t2t.languagepack.engu" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.sr.nmt.apps.t2t.languagepack.enfr" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.sr.nmt.apps.t2t.languagepack.enfi" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.sr.nmt.apps.t2t.languagepack.enfa" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.sr.nmt.apps.t2t.languagepack.enes" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.sr.nmt.apps.t2t.languagepack.ende" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.sr.nmt.apps.t2t.languagepack.enda" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.sr.nmt.apps.t2t.languagepack.encs" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.sr.nmt.apps.t2t.languagepack.enbn" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.sr.nmt.apps.t2t.languagepack.enbg" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.sr.nmt.apps.t2t.languagepack.enar" />
+	
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enar" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enbe" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enbg" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enbn" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enbs" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enca" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.encs" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.ency" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enda" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.ende" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enel" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enen" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.eneo" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enes" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enesmx" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enesus" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enet" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.eneu" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enfa" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enfi" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enfr" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enfrca" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enfy" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enga" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.engd" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.engl" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.engn" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.engu" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enha" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enhe" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enhi" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enhr" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enht" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enhu" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enhy" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enid" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enig" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enis" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enit" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enja" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enjv" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enka" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enkk" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enkm" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enkn" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enko" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enku" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enky" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enla" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enlb" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enlg" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enln" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enlo" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enlt" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enlv" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enmi" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enmk" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enml" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enmn" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enmr" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enms" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enmt" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enmy" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.ennl" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enno" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enny" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enor" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enpa" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enpl" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enpt" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enptbr" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enro" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enru" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enrw" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.ensa" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.ensd" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.ensi" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.ensk" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.ensl" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.ensm" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.ensn" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enso" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.ensq" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.ensr" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enst" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.ensu" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.ensv" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.ensw" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enta" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.ente" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.entg" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enth" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.entk" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.entl" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.entr" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.entt" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enug" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enuk" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enur" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enuz" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.envi" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enxh" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enyi" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enyo" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enzh" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enzhhk" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.enzhtw" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.kozh" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.koja" />
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.nmt.apps.t2t.languagepack.kovi" />
+
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.osp.app.signin" />		
+	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.rms.retailagent.global" />
+</config>
