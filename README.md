@@ -1,0 +1,14 @@
+# a35xxx-user 14 UP1A.231005.007 A356BXXS4AYD1 release-keys
+- manufacturer: samsung
+- platform: erd8835
+- codename: a35x
+- flavor: a35xxx-user
+- release: 14
+- id: UP1A.231005.007
+- incremental: A356BXXS4AYD1
+- tags: release-keys
+- fingerprint: samsung/a35xxx/a35x:13/TP1A.220624.014/A356BXXS4AYD1:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: a35xxx-user-14-UP1A.231005.007-A356BXXS4AYD1-release-keys
+- repo: samsung_a35x_dump

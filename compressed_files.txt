@@ -1,0 +1,10 @@
+system/priv-app/OneDrive_Samsung_v3/OneDrive_Samsung_v3.apk.xz
+system/priv-app/SumeNNService/SumeNNService.apk.xz
+system/priv-app/SecSettings/SecSettings.apk.xz
+system/app/HoneyBoard/HoneyBoard.apk.xz
+system/app/OCRDataProvider/OCRDataProvider.apk.xz
+product/priv-app/Messages/Messages.apk.xz
+product/priv-app/GmsCore/GmsCore.apk.xz
+product/app/Gmail2/Gmail2.apk.xz
+product/app/Maps/Maps.apk.xz
+product/app/WebViewGoogle/WebViewGoogle.apk.xz
